@@ -87,6 +87,8 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 - ComfyUI Troubleshooting & Optimisation  
 - ComfyUI Workflow Monetisation
 
+![Image](https://github.com/user-attachments/assets/a453251f-e358-4a1e-a962-ae94af650503)
+
 
 [Buy on Amazon](https://a.co/d/eockxat)  
 
