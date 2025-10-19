@@ -115,7 +115,7 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 
 If you're part of the ComfyUI community—whether you're a model creator, node developer, educator, artist, or just someone who’s helped others online—you’re invited to be part of future updates.
 
-To suggest additions, corrections, or to be mentioned in the next edition of the *ComfyUI Handbook*, contact the author directly:
+To suggest additions, corrections, or to be mentioned in the next edition of the *ComfyUI Handbook*, please contact the author directly:
  
 [LinkedIn](https://www.linkedin.com/in/rhernandez2)  
 WeChat: _30144231415926
