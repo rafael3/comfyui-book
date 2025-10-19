@@ -2,7 +2,7 @@
 
 **Finally — a printed book to learn ComfyUI the right way.**  
 No more scattered forums, snappy videos, or tabs everywhere.  
-*ComfyUI Handbook* is a 360° guide covering install, LoRA, SDXL, ControlNet, automation, and more.  
+*ComfyUI Handbook* is the must-have 360° guide.  
 Ideal for serious users, teachers, and professionals.
 
 
