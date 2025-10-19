@@ -59,7 +59,8 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 **ISBN:** 978-84-09-77927-7  
 *Print only. First Edition, October 2025.*
 
-![Amazon Badge](https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge)
+[![Amazon Badge](https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge)](https://a.co/d/eockxat)
+
 
 ---
 
