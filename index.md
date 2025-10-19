@@ -6,7 +6,17 @@ No more scattered forums, snappy videos, or tabs everywhere.
 Ideal for serious users, teachers, and professionals.
 
 
-<img width="512" height="627" alt="Image" src="https://github.com/user-attachments/assets/9c237602-13dd-48a0-94df-36f36bf58df8" />
+<a href="https://a.co/d/eockxat">
+  <img 
+    width="512" 
+    height="627" 
+    src="https://github.com/user-attachments/assets/9c237602-13dd-48a0-94df-36f36bf58df8" 
+    alt="ComfyUI Handbook book cover – AI Workflow Design for SDXL, LoRA, ControlNet" 
+    title="Learn ComfyUI, Full ComfyUI Course"
+  />
+</a>
+
+ComfyUI Handbook – AI Workflow Design
 
 [Buy on Amazon](https://a.co/d/eockxat)  
 
@@ -87,8 +97,15 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 - ComfyUI Troubleshooting & Optimisation  
 - ComfyUI Workflow Monetisation
 
-![Image](https://github.com/user-attachments/assets/a453251f-e358-4a1e-a962-ae94af650503)
-
+<a href="https://a.co/d/eockxat">
+  <img 
+    width="512" 
+    height="512" 
+    src="https://github.com/user-attachments/assets/a453251f-e358-4a1e-a962-ae94af650503" 
+    alt="ComfyUI tutorial and training book – structured course for learning AI workflows, SDXL, LoRA" 
+    title="ComfyUI course-style training – step-by-step learning with SDXL, ControlNet, and workflow design"
+  />
+</a>
 
 [Buy on Amazon](https://a.co/d/eockxat)  
 
