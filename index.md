@@ -6,7 +6,6 @@ No more scattered forums, snappy videos, or tabs everywhere.
 Ideal for serious users, teachers, and professionals.
 
 [Buy on Amazon](https://a.co/d/eockxat)  
-hernandezrafael@hotmail.com  
 
 “Official GitHub page for ComfyUI Handbook: AI Workflow Design – Complete guide for node-based AI workflows using Stable Diffusion.”
 
@@ -36,8 +35,6 @@ hernandezrafael@hotmail.com
 ## About the Author
 
 **Rafael Hernández**  
-[LinkedIn](https://www.linkedin.com/in/rhernandez2)
-
 Multidisciplinary Art Director with 25+ years of experience in design, publishing, and AI tools. Based in London and Shanghai.
 
 Rafael is not a developer—and that’s precisely his strength. He doesn’t assume technical knowledge or gloss over concepts that are second nature to AI engineers. Instead, he explains them clearly, with the creative professional in mind. His commercial background brings a focused, real-world approach to ComfyUI: no tech for tech’s sake, just powerful tools used with intent. This book is designed for those who want to create, build, and deliver with confidence.
@@ -87,7 +84,21 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 - ComfyUI Troubleshooting & Optimisation  
 - ComfyUI Workflow Monetisation
 
+
+[Buy on Amazon](https://a.co/d/eockxat)  
+
 ---
+
+## Contact & Community Contributions
+
+If you're part of the ComfyUI community—whether you're a model creator, node developer, educator, artist, or just someone who’s helped others online—you’re invited to be part of future updates.
+
+To suggest additions, corrections, or to be mentioned in the next edition of the *ComfyUI Handbook*, contact the author directly:
+
+**Rafael Hernández **  
+hernandezrafael@hotmail.com  
+[LinkedIn](https://www.linkedin.com/in/rhernandez2)  
+WeChat: _30144231415926
 
 ## License
 
