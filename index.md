@@ -8,15 +8,7 @@ Ideal for serious users, teachers, and professionals.
 [Buy on Amazon](https://a.co/d/eockxat)  
 hernandezrafael@hotmail.com  
 
-
 “Official GitHub page for ComfyUI Handbook: AI Workflow Design – Complete guide for node-based AI workflows using Stable Diffusion.”
-
-## Finally — a printed book to learn ComfyUI the right way.
-
-No more scattered forums, snappy videos, or tabs everywhere.  
-*ComfyUI Handbook* is a 360° guide covering install, LoRA, SDXL, ControlNet, automation, and more.  
-Ideal for serious users, teachers, and professionals.
----
 
 ## What’s Inside the Book
 
@@ -52,7 +44,7 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 
 ---
 
-## 🛒 Where to Buy
+## Where to Buy
 
 **Available Now on Amazon**  
 [https://a.co/d/eockxat](https://a.co/d/eockxat)  
@@ -82,20 +74,18 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 
 ## ComfyUI Features Covered
 
-✅ ComfyUI Installation & Setup  
-✅ ComfyUI Terminal & CLI Basics  
-✅ ComfyUI Manager for Node and Plugin Control  
-✅ ComfyUI Model Loading: SD1.5, SDXL, LoRA  
-✅ ComfyUI Prompt Engineering  
-✅ ComfyUI ControlNet Preprocessors  
-✅ ComfyUI Video & Animation Workflows  
-✅ ComfyUI 3D Mesh Integration  
-✅ ComfyUI API Scripting & Automation  
-✅ ComfyUI Plugin & Extension Ecosystem  
-✅ ComfyUI Troubleshooting & Optimisation  
-✅ ComfyUI Workflow Monetisation
-
-
+- ComfyUI Installation & Setup  
+- ComfyUI Terminal & CLI Basics  
+- ComfyUI Manager for Node and Plugin Control  
+- ComfyUI Model Loading: SD1.5, SDXL, LoRA  
+- ComfyUI Prompt Engineering  
+- ComfyUI ControlNet Preprocessors  
+- ComfyUI Video & Animation Workflows  
+- ComfyUI 3D Mesh Integration  
+- ComfyUI API Scripting & Automation  
+- ComfyUI Plugin & Extension Ecosystem  
+- ComfyUI Troubleshooting & Optimisation  
+- ComfyUI Workflow Monetisation
 
 ---
 
