@@ -5,6 +5,9 @@ No more scattered forums, snappy videos, or tabs everywhere.
 *ComfyUI Handbook* is a 360° guide covering install, LoRA, SDXL, ControlNet, automation, and more.  
 Ideal for serious users, teachers, and professionals.
 
+
+<img width="512" height="627" alt="Image" src="https://github.com/user-attachments/assets/9c237602-13dd-48a0-94df-36f36bf58df8" />
+
 [Buy on Amazon](https://a.co/d/eockxat)  
 
 “Official GitHub page for ComfyUI Handbook: AI Workflow Design – Complete guide for node-based AI workflows using Stable Diffusion.”
