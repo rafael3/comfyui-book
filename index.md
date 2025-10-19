@@ -43,7 +43,7 @@ Ideal for serious users, teachers, and professionals.
 ---
 ## About the Author
 
-**Rafael Hernández González**  
+**Rafael Hernández**  
 [LinkedIn](https://www.linkedin.com/in/rhernandez2)
 
 Multidisciplinary Art Director with 25+ years of experience in design, publishing, and AI tools. Based in London and Shanghai.
@@ -66,6 +66,7 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 
 ## Who Is This For?
 
+- ComfyUI community—model creators, node developers, and workflow contributors
 - Designers using ComfyUI to create or edit assets  
 - Developers building Stable Diffusion pipelines  
 - AI content creators working with LoRA, SDXL, and ControlNet  
