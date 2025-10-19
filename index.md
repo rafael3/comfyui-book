@@ -124,3 +124,6 @@ WeChat: _30144231415926
 
 This project supports the ComfyUI Handbook and is not affiliated with the official ComfyUI developers. All workflow files are CC BY-NC-SA unless otherwise stated.
 
+[![Hits](https://hits.sh/github.com/rafael3/comfyui-book.svg?color=98f831)](https://hits.sh/github.com/rafael3/comfyui-book/)
+
+
