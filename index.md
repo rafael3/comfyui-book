@@ -44,6 +44,15 @@ ComfyUI Handbook – AI Workflow Design
 
 > **326 tips included!** The most complete and structured ComfyUI guide available today (October 2025).
 
+
+## 🎬 Community Review on YouTube
+
+An independent YouTuber has reviewed the *ComfyUI Handbook: AI Workflow Design*.  
+Watch their impressions and walkthrough of the book here:
+
+[![Watch on YouTube](https://img.youtube.com/vi/q6uJ18uW554/0.jpg)](https://www.youtube.com/watch?v=q6uJ18uW554)
+
+
 ---
 ## About the Author
 
