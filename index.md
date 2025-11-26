@@ -23,6 +23,7 @@ ComfyUI Handbook – AI Workflow Design
 “Official GitHub page for ComfyUI Handbook: AI Workflow Design – Complete guide for node-based AI workflows using Stable Diffusion.”
 
 ## What’s Inside the Book
+Visit the Amazon page and click “Look inside” to see full table of contents and sample pages:
 
 - Installing and setting up ComfyUI  
 - Navigating the interface with confidence  
@@ -69,6 +70,7 @@ Rafael is not a developer—and that’s precisely his strength. He doesn’t as
 [https://a.co/d/eockxat](https://a.co/d/eockxat)  
 **ISBN:** 978-84-09-77927-7  
 *Print only. First Edition, October 2025.*
+Regularly updated. Latest update dated 23 November 2025. 
 
 [![Amazon Badge](https://img.shields.io/badge/Buy%20on-Amazon-orange?style=for-the-badge)](https://a.co/d/eockxat)
 
