@@ -117,7 +117,7 @@ Regularly updated. Latest update dated 23 November 2025.
     title="ComfyUI course-style training – step-by-step learning with SDXL, ControlNet, and workflow design"
   />
 </a>
-
+Regularly updated. The publication date does not reflect content updates. Check the interior pages for the latest update.
 [Buy on Amazon](https://a.co/d/eockxat)  
 
 ---
